@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/9fbda57b-d0e5-40c0-898d-2d0ac34b614d" alt="Zsh Custom Config" width="480" />
-
 # Oh My Zsh Custom Developer Shell Setup
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -461,6 +459,11 @@ Found a bug? Have a feature idea? Contributions are welcome!
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+---
+
+## Support
+
+For support, email uzairrshahid@gmail.com or join our [Discord Community Codemo Teams](https://linktr.ee/codemoteams).
 
 **If you found this helpful, please consider giving it a star on GitHub!**
 
